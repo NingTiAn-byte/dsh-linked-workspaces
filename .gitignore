@@ -1,0 +1,12 @@
+node_modules/
+artifacts/
+*.tgz
+
+.env
+.env.*
+!.env.example
+*.log
+*.pem
+*.key
+credentials*.json
+VERIFICATION.md
